@@ -1,7 +1,3 @@
-Creating a suitable README file for your project on GitHub is important to provide information and context to anyone who visits your repository. Below is a template you can use for your project's README file:
-
-```markdown
-# Ship TEU Prediction Project
 
 ## Overview
 
